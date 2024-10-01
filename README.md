@@ -34,7 +34,7 @@ Project Setup
 
     TMDB_API_KEY = eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5NmM5NzIyZGYwZTJhM2IxY2ZkMGQ4NzJkNDFhY2NhNiIsIm5iZiI6MTcyNzc0MjIxOC4zMjY1Mywic3ViIjoiNjZmYjNmYTBkODA2NDE2NWJkZjE2MDNmIiwic2NvcGVzIjpbImFwaV9yZWFkIl0sInZlcnNpb24iOjF9.8PghLwzH0wdQqwXLhObHysnHYxYYoj28CGEN8TXwUWM
 
- 3. Run the server: npm start  
+ 3. Run the server: npm run dev  
 
 
 Dependencies:
