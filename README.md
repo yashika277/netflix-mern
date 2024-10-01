@@ -28,7 +28,7 @@ Project Setup
 2. Create a .env file in the root directory and add your environment variables:
     MONGO_URL = mongodb+srv://yashikabhadkoliya2707:yashika123@cluster0.z9hxl.mongodb.net/netflix_db?retryWrites=true&w=majority&appName=Cluster0
 
-    PORT = 5050
+    PORT = 8000
 
     JWT_SECRET = my_relly_hard_to_decode_secret 
 
